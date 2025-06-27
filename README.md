@@ -13,7 +13,7 @@
       <!-- Empty cell to push content to the left -->
     </td>
     <td width="30%" align="right">
-      <img src="URL_OF_YOUR_IMAGE" alt="Bacem Touil Action Figure" width="300" />
+      <img src="BI_pic.png" width="300" />
     </td>
   </tr>
 </table>
