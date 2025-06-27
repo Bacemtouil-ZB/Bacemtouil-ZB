@@ -4,7 +4,7 @@
 - 🌱 Currently exploring **MERN Stack** and advanced BI techniques
 - 💬 Ask me about **Business Intelligence**, **Web Development**, or **Data Analytics**
 - 📫 Reach me at **touilbacem15@gmail.com**
-- 🌐 [Portfolio](https://yourportfolio.com) | [LinkedIn](https://linkedin.com/in/yourprofile)
+- 🌐 [Portfolio](https://yourportfolio.com) | [LinkedIn](www.linkedin.com/in/touil-bacem)
 
 <div style="display: flex; justify-content: space-between; align-items: center; margin: 20px 0;">
   <div style="flex: 1;">
