@@ -28,8 +28,9 @@
 
 ### 📫 How to Reach Me
 
-Feel free to connect via [LinkedIn](www.linkedin.com/in/touil-bacem) or send me an email at <touilbacem15@gmail.com>.  
+Feel free to connect via [LinkedIn](https://www.linkedin.com/in/touil-bacem) or send me an email at <touilbacem15@gmail.com>.  
 I’m always open to discussing projects, collaborations, or new opportunities!
 
 ---
+
 
