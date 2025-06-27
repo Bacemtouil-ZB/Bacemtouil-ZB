@@ -1,6 +1,6 @@
 <!-- Présentation avec image ronde à gauche et texte à droite -->
 <div style="display: flex; align-items: center; margin-top: 20px;">
-  <img src="assets/BI_pic.png" alt="Bacem Touil" width="150" style="border-radius: 50%; margin-right: 20px; box-shadow: 0 0 8px rgba(0,0,0,0.1);" />
+  <img src="BI_pic.png" alt="Bacem Touil" width="150" style="border-radius: 50%; margin-right: 20px; box-shadow: 0 0 8px rgba(0,0,0,0.1);" />
   <div>
     <h1>Hi 👋, I'm Bacem Touil</h1>
     <h3>🎓 Business Intelligence Student | 👨‍💻 Data Enthusiast & Full‑Stack Developer 🌍</h3>
