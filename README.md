@@ -20,9 +20,8 @@
 
 ### 🚀 What I’m Currently Working On
 
-- Building a scalable **MERN stack** project to automate data reporting.
-- Enhancing my skills in **Business Intelligence tools** and **data visualization**.
-- Exploring advanced **data analytics** techniques to extract insights from complex datasets.
+- Developing a mobile VTC app using React Native (Expo) and Node.js/Express for the backend
+
 
 ---
 
