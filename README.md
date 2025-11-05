@@ -12,7 +12,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,python,php,mysql,java,git,figma," alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,python,php,mysql,java,git,figma,blender&perline=7" alt="Tech Stack Icons" />
 </p>
 
 ---
@@ -21,6 +21,7 @@
 ### 🚀 What I’m Currently Working On
 
 - Developing a mobile VTC app using React Native (Expo) and Node.js/Express for the backend
+- Developing a Job Tracker web application with the MERN stack, implementing DevOps practices including Jenkins, Docker, and automated CI/CD pipelines
 
 
 ---
