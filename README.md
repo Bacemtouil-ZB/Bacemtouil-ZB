@@ -12,7 +12,7 @@
 ### 🛠️ Tech Stack
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,python,php,mysql,java,git,figma,blender&perline=7" alt="Tech Stack Icons" />
+  <img src="https://skillicons.dev/icons?i=js,react,nodejs,express,mongodb,html,css,python,php,mysql,java,git,figma," alt="Tech Stack Icons" />
 </p>
 
 ---
